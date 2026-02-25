@@ -1,6 +1,6 @@
 # # BuildCore
 
-A desktop browser workspace with — tabs, notes, a code editor, and session management in one app.
+A desktop browser workspace with — web ai, tabs, notes, a code editor, and session management in one app.
 
 ---
 
