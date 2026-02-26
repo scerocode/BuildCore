@@ -131,3 +131,8 @@ The collapsible left sidebar shows all open tabs for quick switching. Toggle wit
 | Toggle comment (IDE) | `Ctrl+/` |
 | Cancel / close overlay | `Escape` |
 | Quit | `Ctrl+Q` |
+
+need to upgrade/fix:
+notes
+IDE
+add architecture or workflow charts 
