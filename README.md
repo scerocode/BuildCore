@@ -1,4 +1,5 @@
 # # BuildCore
+![641207613_122113577205198883_1973060610498712879_n](https://github.com/user-attachments/assets/235029b7-7efb-45f6-994c-6a3261affc46)
 
 A desktop browser workspace with — web ai, tabs, notes, a code editor, and session management in one app.
 
